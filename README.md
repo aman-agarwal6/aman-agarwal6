@@ -10,4 +10,4 @@ This summer I was a cybersecurity intern at HNI Corporation, where I automated a
 - [BetTail](https://aman-agarwal6.github.io/projects/bettail.html): a production web app with PostgreSQL row-level security and an LLM research agent. Source is private.
 - [Netted](https://aman-agarwal6.github.io/projects/netted.html): a finance app with database-enforced MFA and a written security assessment. Source is private.
 
-[Portfolio](https://aman-agarwal6.github.io/) · [LinkedIn](https://www.linkedin.com/in/aman-agarwal6/)
+[Portfolio](https://aman-agarwal6.github.io/) · [LinkedIn](https://www.linkedin.com/in/aman-agarwal6/) · aagarwalcollege@gmail.com
