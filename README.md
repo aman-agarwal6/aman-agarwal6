@@ -16,4 +16,4 @@ CompTIA Security+ certified · Management Information Systems senior at Iowa Sta
 
 **Toolkit:** Cortex XSIAM · Wazuh · Splunk · Proofpoint · Wiz · OWASP ZAP · Python · TypeScript · SQL/PostgreSQL · Django · Next.js · Azure · Docker · LLM agents · RAG
 
-[Portfolio](https://aman-agarwal6.github.io/) · [LinkedIn](https://www.linkedin.com/in/aman-agarwal6/) · [Resume](https://aman-agarwal6.github.io/assets/Aman-Agarwal-Resume.pdf) · [Email](mailto:aagarwalcollege@gmail.com)
+[Portfolio](https://aman-agarwal6.github.io/) · [LinkedIn](https://www.linkedin.com/in/aman-agarwal6/) · [Email](mailto:aagarwalcollege@gmail.com)
