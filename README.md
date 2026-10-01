@@ -1,17 +1,31 @@
 # Aman Agarwal
 
-**Security operations, automation and application security.** Iowa State MIS senior, Cybersecurity Engineering minor and CompTIA Security+. Graduating December 2026; available for entry-level roles in **January 2027**.
+**Security operations · Security engineering · Applied AI**
 
-At HNI Corporation, I worked on alert triage, Python integrations and cloud security controls. My projects build on that experience: keep the evidence visible, enforce access at the write boundary and make uncertainty explicit.
+MIS senior at Iowa State University, with a Cybersecurity Engineering minor and CompTIA Security+. Graduating **December 2026** and available for junior roles in **January 2027**.
 
-## Selected work
+[Explore my portfolio](https://aman-agarwal6.github.io/) · [Recruiter summary](https://aman-agarwal6.github.io/overview.html) · [LinkedIn](https://www.linkedin.com/in/aman-agarwal6/) · [Email](mailto:aagarwalcollege@gmail.com)
 
-- **[SignalBridge](https://github.com/aman-agarwal6/signalbridge)** — A local, rule-based security workbench for signed telemetry and analyst review. The [case study](https://aman-agarwal6.github.io/projects/signalbridge.html) covers an access-revocation race, a recorded Wazuh replay and detection patterns that did not alert. Public source is a cleaned snapshot of private development.
-- **[BetTail](https://aman-agarwal6.github.io/projects/bettail.html)** — A deployed private-group app. Membership checks, financial calculations and retried writes live in PostgreSQL; realtime messages carry change signals rather than private rows. Source is private.
-- **[Netted](https://aman-agarwal6.github.io/projects/netted.html)** — A finance beta built from accounting requirements. Its cloud review includes database-enforced MFA and a reconciled journal restore, with full-service recovery and operational readiness still open. Source is private.
+## Experience
 
-**In progress: [Downfield](https://aman-agarwal6.github.io/projects/downfield.html)** — Local AI football research with captured source evidence, report validators and versioned forecasts. It publishes reports to BetTail through a separate, limited connection. Model probabilities remain uncalibrated.
+At **HNI Corporation**, my cybersecurity internship covered phishing and DLP triage in Proofpoint, identity-alert automation in Cortex XSIAM, Python threat-intelligence integrations, and Rego/Wiz controls for Azure.
 
-AI coding agents wrote substantial portions of the code and documentation under my direction. The case studies distinguish local labs, deployed apps, recorded checks and open work; these are builder-led reviews, not independent assessments.
+## Selected projects
 
-[Interactive portfolio](https://aman-agarwal6.github.io/) · [LinkedIn](https://www.linkedin.com/in/aman-agarwal6/) · [Email](mailto:aagarwalcollege@gmail.com)
+| Project | What it does | Engineering work to inspect |
+| --- | --- | --- |
+| **[SignalBridge](https://aman-agarwal6.github.io/projects/signalbridge.html)** | Local security workbench for signed telemetry, detection rules and analyst review. | Scoped roles, a reproduced access-revocation write race, and retained Wazuh replay evidence. [Public source](https://github.com/aman-agarwal6/signalbridge). |
+| **[BetTail](https://aman-agarwal6.github.io/projects/bettail.html)** | Deployed app for private groups to share and track sports picks. | PostgreSQL access controls, transactional financial calculations, retried-write handling and private realtime updates. Private source. |
+| **[Netted](https://aman-agarwal6.github.io/projects/netted.html)** | Personal-finance beta for realized profit, shared-fund accounting and budgeting. | Database-enforced MFA, exact accounting rules, audited corrections and a recorded journal restore. Full-service recovery remains open. Private source. |
+| **[Downfield](https://aman-agarwal6.github.io/projects/downfield.html)** | Local AI research app with structured, versioned football reports. | Restricted research tools, retained source evidence, deterministic validators and limited report publishing. In development; model probabilities are uncalibrated. |
+
+[Project documentation and public evidence](https://github.com/aman-agarwal6/aman-agarwal6.github.io/blob/main/docs/PROJECTS.md) — source excerpts and recorded checks for the security and AI work.
+
+Interested in junior security analyst, SOC, threat intelligence, security engineering, AI security and applied AI roles.
+
+<details>
+<summary>Implementation and evidence</summary>
+
+AI coding agents wrote substantial portions of the project code and documentation under my direction. I set requirements, directed security reviews and chose what to change. The case studies describe my role, recorded checks and open work. Assessments are builder-led, not independent reviews.
+
+</details>
