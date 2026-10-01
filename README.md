@@ -12,11 +12,11 @@ At **HNI Corporation**, my cybersecurity internship covered phishing and DLP tri
 
 ## Selected projects
 
-| Project | What it does | Engineering work to inspect |
+| Project | What it does | Development and supporting work |
 | --- | --- | --- |
 | **[SignalBridge](https://aman-agarwal6.github.io/projects/signalbridge.html)** | Local security workbench for signed telemetry, detection rules and analyst review. | Scoped roles, a reproduced access-revocation write race, and retained Wazuh replay evidence. [Public source](https://github.com/aman-agarwal6/signalbridge). |
-| **[BetTail](https://aman-agarwal6.github.io/projects/bettail.html)** | Deployed app for private groups to share and track sports picks. | PostgreSQL access controls, transactional financial calculations, retried-write handling and private realtime updates. Private source. |
-| **[Netted](https://aman-agarwal6.github.io/projects/netted.html)** | Personal-finance beta for realized profit, shared-fund accounting and budgeting. | Database-enforced MFA, exact accounting rules, audited corrections and a recorded journal restore. Full-service recovery remains open. Private source. |
+| **[BetTail](https://aman-agarwal6.github.io/projects/bettail.html)** | Deployed app for private groups to share and track sports picks. | AI-assisted full-stack development: shared feeds, ticket workflows and statistics. I also reviewed application security, including database access controls and private realtime updates. Private source. |
+| **[Netted](https://aman-agarwal6.github.io/projects/netted.html)** | Personal-finance beta for realized profit, shared-fund accounting and budgeting. | Accounting requirements, exact money calculations, fund allocations and audited corrections. I also completed security and recovery reviews; full-service recovery remains open. Private source. |
 | **[Downfield](https://aman-agarwal6.github.io/projects/downfield.html)** | Local AI research app with structured, versioned football reports. | Restricted research tools, retained source evidence, deterministic validators and limited report publishing. In development; model probabilities are uncalibrated. |
 
 [Project documentation and public evidence](https://github.com/aman-agarwal6/aman-agarwal6.github.io/blob/main/docs/PROJECTS.md) — source excerpts and recorded checks for the security and AI work.
