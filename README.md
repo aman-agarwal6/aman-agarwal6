@@ -8,7 +8,7 @@ MIS senior at Iowa State University, with a Cybersecurity Engineering minor and 
 
 ## Experience
 
-At **HNI Corporation**, my cybersecurity internship covered phishing and DLP triage in Proofpoint, identity-alert automation in Cortex XSIAM, Python threat-intelligence integrations, and Rego/Wiz controls for Azure.
+At **HNI Corporation**, my cybersecurity internship covered identity-alert automation in **Cortex XSIAM**, phishing and DLP triage in Proofpoint, Python threat-intelligence integrations, and Rego/Wiz controls for Azure.
 
 ## Selected projects
 
