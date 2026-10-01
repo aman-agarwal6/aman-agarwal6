@@ -4,7 +4,7 @@
 
 MIS senior at Iowa State University, with a Cybersecurity Engineering minor and CompTIA Security+. Graduating **December 2026** and available for junior roles in **January 2027**.
 
-[Explore my portfolio](https://aman-agarwal6.github.io/) · [Recruiter summary](https://aman-agarwal6.github.io/overview.html) · [Summary PDF](https://aman-agarwal6.github.io/assets/docs/aman-agarwal-recruiter-summary.pdf) · [LinkedIn](https://www.linkedin.com/in/aman-agarwal6/) · [Email](mailto:aagarwalcollege@gmail.com)
+[Explore my portfolio](https://aman-agarwal6.github.io/) · [Recruiter summary](https://aman-agarwal6.github.io/overview.html) · [LinkedIn](https://www.linkedin.com/in/aman-agarwal6/) · [Email](mailto:aagarwalcollege@gmail.com)
 
 ## Experience
 
