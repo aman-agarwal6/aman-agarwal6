@@ -69,6 +69,6 @@ Automated triage for 3 identity-alert types in **Cortex XSIAM** (30+ alerts hand
 <details>
 <summary>How I build</summary>
 
-I build with AI coding agents under my direction. I set the requirements and threat model, decide what to measure, and review each finding and fix. Each case study states my role, its recorded checks and what they don't prove; assessments are my own, not independent reviews.
+AI coding agents wrote substantial portions of the project code and documentation under my direction. I set requirements, directed security reviews and chose what to change. The case studies describe my role, recorded checks and open work. Assessments are builder-led, not independent reviews.
 
 </details>
