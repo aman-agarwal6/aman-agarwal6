@@ -62,7 +62,7 @@ Automated triage for 3 identity-alert types in **Cortex XSIAM** (30+ alerts hand
 ## Toolkit
 
 **Identity & access:** Keycloak (OIDC, SCIM, MFA) · Microsoft Entra ID and Graph · Samba AD (LDAPS, Kerberos) · OPA and Rego · Shared Signals (CAEP, RISC)  
-**Detection & response:** Cortex XSIAM · Wazuh · Sigma · Shuffle SOAR · Proofpoint TRAP and DLP · OWASP ZAP  
+**Detection & response:** Cortex XSIAM · Wazuh · Sigma · Splunk SPL and KQL · Shuffle SOAR · Proofpoint TRAP and DLP · OWASP ZAP  
 **Engineering:** Python · Django · PostgreSQL · TypeScript · React · Next.js · Supabase · Docker · GitHub Actions  
 **Applied AI:** LLM research workflows · tool and environment allowlists · JSON Schema validation · AI coding agents
 
