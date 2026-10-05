@@ -49,7 +49,7 @@ The two work as a pair: AccessOps sends a signed event for each offboarding step
 | --- | --- | --- |
 | [BetTail](https://aman-agarwal6.github.io/projects/bettail.html) | Live web app where private groups share sports picks and track results | Profit, ROI and leaderboards calculated in the database; row-level security on every exposed table; 6 fixes from my security review |
 | [Netted](https://aman-agarwal6.github.io/projects/netted.html) | Personal-finance app for trade profit, shared funds and budgeting | Accounting rules written before any code; MFA enforced in the database; 7-item risk register |
-| [Downfield](https://aman-agarwal6.github.io/projects/downfield.html) | Local AI research agent that writes structured NFL reports for BetTail | Every report checked by code; versioned forecasts graded after each game; two allowed tools, no app secrets |
+| [Downfield](https://aman-agarwal6.github.io/projects/downfield.html) | Local AI research agent that writes structured NFL reports for BetTail | Covered a full NFL week (15 games, published before kickoff); every report checked by code; versioned forecasts graded after each game |
 
 BetTail, Netted and Downfield are private; their case studies link [selected code and tests](https://github.com/aman-agarwal6/aman-agarwal6.github.io/blob/main/docs/PROJECTS.md).
 
