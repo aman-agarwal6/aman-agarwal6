@@ -1,6 +1,6 @@
-<a href="https://aman-agarwal6.github.io/"><img src="assets/banner.png" alt="Aman Agarwal: identity security and security operations. Iowa State MIS, CompTIA Security+, former HNI cybersecurity intern. Open to entry-level security roles from January 2027." width="100%"></a>
+<a href="https://aman-agarwal6.github.io/"><img src="assets/banner.png" alt="Aman Agarwal: security engineering and applied AI. Iowa State MIS, CompTIA Security+, former HNI cybersecurity intern. Open to entry-level security and AI roles from January 2027." width="100%"></a>
 
-I build identity and detection controls, test them against real systems, and publish what failed alongside what passed. MIS senior at Iowa State with a Cybersecurity Engineering minor, graduating December 2026; CompTIA Security+; former cybersecurity intern at HNI. **Open to entry-level roles in identity and access management, security operations and security engineering from January 2027.**
+I build security controls and AI-powered tools, test them against real systems, and publish what failed alongside what passed. MIS senior at Iowa State with a Cybersecurity Engineering minor, graduating December 2026; CompTIA Security+; former cybersecurity intern at HNI. **Open to entry-level roles in security engineering, security operations or identity and access management, and AI engineering or automation roles, from January 2027.**
 
 **[Portfolio](https://aman-agarwal6.github.io/)** · [Recruiter summary](https://aman-agarwal6.github.io/overview.html) · [LinkedIn](https://www.linkedin.com/in/aman-agarwal6/) · [Email](mailto:aagarwalcollege@gmail.com)
 
@@ -47,9 +47,9 @@ The two work as a pair: AccessOps sends a signed event for each offboarding step
 
 | Project | What it is | Highlight |
 | --- | --- | --- |
-| [BetTail](https://aman-agarwal6.github.io/projects/bettail.html) | Live web app where private groups share sports picks and track results | Row-level security on every exposed table, no admin database key; 6 fixes from my security review |
-| [Netted](https://aman-agarwal6.github.io/projects/netted.html) | Personal-finance app for trade profit, shared funds and budgeting | MFA enforced in the database; security assessment and 7-item risk register |
-| [Downfield](https://aman-agarwal6.github.io/projects/downfield.html) | Local AI research agent that writes structured NFL reports | Two allowed tools, no app secrets, code checks on every report |
+| [BetTail](https://aman-agarwal6.github.io/projects/bettail.html) | Live web app where private groups share sports picks and track results | Profit, ROI and leaderboards calculated in the database; row-level security on every exposed table; 6 fixes from my security review |
+| [Netted](https://aman-agarwal6.github.io/projects/netted.html) | Personal-finance app for trade profit, shared funds and budgeting | Accounting rules written before any code; MFA enforced in the database; 7-item risk register |
+| [Downfield](https://aman-agarwal6.github.io/projects/downfield.html) | Local AI research agent that writes structured NFL reports for BetTail | Every report checked by code; versioned forecasts graded after each game; two allowed tools, no app secrets |
 
 BetTail, Netted and Downfield are private; their case studies link [selected code and tests](https://github.com/aman-agarwal6/aman-agarwal6.github.io/blob/main/docs/PROJECTS.md).
 
@@ -67,13 +67,13 @@ Automated triage for 3 identity-alert types in **Cortex XSIAM** (30+ alerts hand
 ![Cortex XSIAM](https://img.shields.io/badge/Cortex%20XSIAM-161D2A?style=flat-square&logo=paloaltonetworks&logoColor=F04E23) ![Wazuh SIEM](https://img.shields.io/badge/Wazuh%20SIEM-161D2A?style=flat-square) ![Sigma rules](https://img.shields.io/badge/Sigma%20rules-161D2A?style=flat-square) ![Splunk SPL](https://img.shields.io/badge/Splunk%20SPL-161D2A?style=flat-square&logo=splunk&logoColor=white) ![KQL](https://img.shields.io/badge/KQL-161D2A?style=flat-square) ![Shuffle SOAR](https://img.shields.io/badge/Shuffle%20SOAR-161D2A?style=flat-square) ![Proofpoint TRAP and DLP](https://img.shields.io/badge/Proofpoint%20TRAP%20and%20DLP-161D2A?style=flat-square) ![VirusTotal](https://img.shields.io/badge/VirusTotal-161D2A?style=flat-square&logo=virustotal&logoColor=394EFF) ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-161D2A?style=flat-square&logo=zap&logoColor=00549E)
 
 **Cloud security**  
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-161D2A?style=flat-square) ![Wiz Security Graph](https://img.shields.io/badge/Wiz%20Security%20Graph-161D2A?style=flat-square) ![Rego policy controls](https://img.shields.io/badge/Rego%20policy%20controls-161D2A?style=flat-square) ![REST API integrations](https://img.shields.io/badge/REST%20API%20integrations-161D2A?style=flat-square)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-161D2A?style=flat-square) ![Wiz Security Graph](https://img.shields.io/badge/Wiz%20Security%20Graph-161D2A?style=flat-square) ![Rego cloud controls](https://img.shields.io/badge/Rego%20cloud%20controls-161D2A?style=flat-square)
 
 **Engineering**  
 ![Python](https://img.shields.io/badge/Python-161D2A?style=flat-square&logo=python&logoColor=3776AB) ![Django](https://img.shields.io/badge/Django-161D2A?style=flat-square&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161D2A?style=flat-square&logo=postgresql&logoColor=4169E1) ![TypeScript](https://img.shields.io/badge/TypeScript-161D2A?style=flat-square&logo=typescript&logoColor=3178C6) ![React](https://img.shields.io/badge/React-161D2A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-161D2A?style=flat-square&logo=nextdotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-161D2A?style=flat-square&logo=supabase&logoColor=3FCF8E) ![Docker](https://img.shields.io/badge/Docker-161D2A?style=flat-square&logo=docker&logoColor=2496ED)
 
-**Secure delivery**  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-161D2A?style=flat-square&logo=githubactions&logoColor=2088FF) ![CodeQL and dependency review](https://img.shields.io/badge/CodeQL%20and%20dependency%20review-161D2A?style=flat-square&logo=github&logoColor=white) ![Signed releases with SBOM](https://img.shields.io/badge/Signed%20releases%20with%20SBOM-161D2A?style=flat-square) ![Row-level security](https://img.shields.io/badge/Row--level%20security-161D2A?style=flat-square&logo=postgresql&logoColor=4169E1) ![Regression tests](https://img.shields.io/badge/Regression%20tests-161D2A?style=flat-square)
+**Delivery**  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-161D2A?style=flat-square&logo=githubactions&logoColor=2088FF) ![CodeQL and dependency review](https://img.shields.io/badge/CodeQL%20and%20dependency%20review-161D2A?style=flat-square&logo=github&logoColor=white) ![Signed releases with SBOM](https://img.shields.io/badge/Signed%20releases%20with%20SBOM-161D2A?style=flat-square)
 
-**AI security**  
-![LLM agents (Claude)](https://img.shields.io/badge/LLM%20agents%20%28Claude%29-161D2A?style=flat-square&logo=claude&logoColor=D97757) ![Tool and environment allowlists](https://img.shields.io/badge/Tool%20and%20environment%20allowlists-161D2A?style=flat-square) ![Untrusted-input handling](https://img.shields.io/badge/Untrusted--input%20handling-161D2A?style=flat-square) ![JSON Schema validation](https://img.shields.io/badge/JSON%20Schema%20validation-161D2A?style=flat-square&logo=json&logoColor=white) ![Source provenance](https://img.shields.io/badge/Source%20provenance-161D2A?style=flat-square)
+**Applied AI**  
+![LLM agents (Claude)](https://img.shields.io/badge/LLM%20agents%20%28Claude%29-161D2A?style=flat-square&logo=claude&logoColor=D97757) ![Structured output with JSON Schema](https://img.shields.io/badge/Structured%20output%20with%20JSON%20Schema-161D2A?style=flat-square&logo=json&logoColor=white) ![Tool and environment allowlists](https://img.shields.io/badge/Tool%20and%20environment%20allowlists-161D2A?style=flat-square) ![Source provenance](https://img.shields.io/badge/Source%20provenance-161D2A?style=flat-square)
